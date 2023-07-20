@@ -1,0 +1,6 @@
+game_width	50	#The width of the board
+game_height	50	#The height of the board
+duration	300	#The length of a single round, in seconds
+speed	100	    #The amount of time each agent is given to calculate a move, in milliseconds
+num_snakes	4	#The number of snakes that contest a single round. The game supports any number of snakes greater than 1
+random_seed 6	#This value sets the random number generator's seed, which allows for repeatable games. Any string value (including the string "null") can be used to set this configuration.
